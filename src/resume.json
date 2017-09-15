@@ -1,0 +1,127 @@
+{
+	"name": "Gracheva Irina",
+	"email": "irinkes@gmail.com",
+	"phone": "8903 1359962",
+	"image": "http://gracheva.info/img/mypic.jpg",
+	"website": "gracheva.info",
+	"twitter": "@irinkes",
+	"twitterURL": "https://twitter.com/irinkes",
+	"linkedin": "https://www.linkedin.com/in/irina-gracheva-84949a129/",
+	"linkedinShort": "linkedin.com/in/irina-gracheva",
+	"github": "Irinkes",
+	"githubURL": "https://github.com/Irinkes",	
+	"experiences" : [
+		{
+			"title" : "Freelance front-end developer",
+			"period": "2016 - Present",
+			"company": "Freelance",
+			"companyURL": "http://upwork.com",
+			"details": "Today I work as a freelance front-end developer. I've also have an experience in back-end development. I'm familiar with PHP and MySQL development, and also CMS like Wordpress. "
+		},
+		{
+			"title" : "Markup Developer",
+			"period": "2013 - 2016",
+			"company": "RDW-Media",
+			"companyURL": "http://www.rabota.ru",
+			"details": "HTML, CSS development of www.rabota.ru. Development of email templates and mobile version of www.rabota.ru. I also was responsible for promo and landing pages mockups. "
+		},
+		{
+			"title" : "Website technical specialist",
+			"period": "2010 - 2012",
+			"company": "Microsoft, Russia",
+			"companyURL": "http://microsoft.com",
+			"details": "I prepared content for production, solved technical problems (troubleshooting), optimized usability, analized website traffic, made html email mock-ups."
+		}
+	],
+	"projects": [
+		{
+			"name":"Rabota.ru",
+			"url": "http://rabota.ru",
+			"detail": "A responsive website template designed to help applicants find work and employers find employees"
+		},
+		{
+			"name":"Nosweetie.com",
+			"url": "http://nosweetie.com",
+			"detail": "A responsive website with a collection of sugar-free recepies. Built on Wordpress"
+		},
+		{
+			"name":"EE-HH.com",
+			"url": "http://ee-hh.com",
+			"detail": "Wordpress website designed for those who is looking for professional help (household help)"
+		},
+		{
+			"name":"Atom",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Dice games",
+			"url": "https://github.com/Irinkes/dice_games",
+			"detail": "A website with 3 different dice games. All games are made in JavaScript. This is my study project for Computer science course of Harvard University"
+		}
+	],
+	"skills": [
+		{
+			"name": "HTML and HTML5",
+			"percent": "90%"
+		},
+		{
+			"name": "CSS and CSS3",
+			"percent": "85%"
+		},
+		{
+			"name": "Javascript and JQuery",
+			"percent": "50%"
+		},
+		{
+			"name": "React.js",
+			"percent": "45%"
+		},
+		{
+			"name": "Bootstrap, Materialize",
+			"percent": "45%"
+		},
+		{
+			"name": "Adobe Photoshop",
+			"percent": "40%"
+		},
+		{
+			"name": "PHP, Python",
+			"percent": "20%"
+		},
+		{
+			"name": "MySQL",
+			"percent": "20%"
+		}
+		
+	],
+	"education": [
+		{
+			"degree": "Introduction to Computer Science",
+			"university": "Harvard University",
+			"period": "2016 - 2017"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Fluent"
+		},
+		{
+			"name":"Russian",
+			"details": "Native"
+		}
+	],
+	"interests": [
+		"Reading",
+		"Snowboarding",
+		"Cooking",
+		"Coding"
+	]
+}
+
+
+
+
+
+
